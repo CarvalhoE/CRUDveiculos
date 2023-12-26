@@ -19,4 +19,3 @@
 ## Implementação em Java
 - **Tópico:** Como as operações são realizadas?
 - **Detalhes:** Utilização de métodos específicos para Create, Read, Update e Delete. Possibilidade de expansão com interface gráfica para melhor usabilidade.
-```
